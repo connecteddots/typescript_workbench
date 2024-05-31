@@ -1,0 +1,12 @@
+{
+  "name": "typescript_workbench",
+  "version": "1.0.0",
+  "description": "Try to explore world of typescipt from basic to master",
+  "main": "./dist/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
